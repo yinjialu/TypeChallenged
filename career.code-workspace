@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"name": "career",
+			"path": ".."
+		},
+		{
+			"name": ".leetcode",
+			"path": "../../leetcode/.leetcode"
+		}
+	],
+    "settings": {}
+}
